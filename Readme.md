@@ -73,29 +73,3 @@
 | `VW_PATIENT_UTILIZATION`     | Patient engagement and lifetime value tracking            |
 | `VW_REVENUE_BY_PAYMENT_TYPE` | Revenue distribution by payment mode                      |
 
----
-
-## ▶️ How to Run (More Practical)
-
-1. Create database and required schemas
-2. Configure file format and Snowflake stage
-3. Load raw datasets using `COPY INTO`
-4. Execute curated layer scripts (Patients → Billing → Appointments)
-5. Create dimension and fact tables
-6. Enable **Streams and Tasks** for incremental processing
-7. Create analytics views
-8. Apply masking policies for sensitive data
-
----
-
-## 📌 Conclusion (Stronger Impact)
-
-This project demonstrates a **production-ready Snowflake data engineering pipeline**, covering:
-
-* Scalable data ingestion from raw sources
-* Data cleaning, validation, and standardization
-* Incremental processing using CDC (Streams & Tasks)
-* Star schema-based analytical modeling
-* Secure data governance with masking policies
-
----

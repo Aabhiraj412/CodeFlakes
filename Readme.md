@@ -6,6 +6,7 @@
 * Built **patient data cleaning pipeline (CLEAN_PATIENTS)**
 * Created **dimension and fact tables** (Star Schema)
 * Developed analytics view: `VW_DEPT_APPT_SUMMARY`
+* Data Masking phone and email.
 
 ---
 
@@ -34,6 +35,8 @@
 * Built **CLEAN_BILLING transformation layer**
 * Ensured **data validation (dates, amounts, null checks)**
 * Developed analytics view: `VW_REVENUE_BY_DEPT`
+* Data Masking.
+
 
 ---
 

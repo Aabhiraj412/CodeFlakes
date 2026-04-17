@@ -47,7 +47,10 @@ CREATE OR REPLACE TABLE STAGE_LAYER.APPOINTMENTS_RAW (
     STATUS STRING
 );
 
--- Raw Billing Table
+-- ================================================
+-- STAGE LAYER (Handled by Utkarsh Trivedi)
+-- ================================================
+-- Raw Billing Table 
 CREATE OR REPLACE TABLE STAGE_LAYER.BILLING_RAW (
     BILL_ID STRING,
     BILL_DATE STRING,

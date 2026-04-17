@@ -273,7 +273,7 @@ WHEN NOT MATCHED THEN INSERT VALUES (
 );
 
 -- ================================================
--- GOVERNANCE (Masking)
+-- GOVERNANCE (Masking) : Sankalp Kaityar + Utkarsh Trivedi
 -- ================================================
 
 -- Mask phone number

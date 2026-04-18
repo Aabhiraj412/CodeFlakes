@@ -30,7 +30,8 @@
 
 ### 🔹 Utkarsh Trivedi
 
-* Designed and implemented **Billing Data Pipeline**
+* Designed **solution architecture**
+*  Designed and implemented **Billing Data Pipeline**
 * Developed **BILLING_EXCEPTION handling logic**
 * Built **CLEAN_BILLING transformation layer**
 * Ensured **data validation (dates, amounts, null checks)**
